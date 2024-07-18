@@ -3,7 +3,7 @@
 	"Lang": "ru",
 	"DebugLog": false,
 	"ВерсияVA": "ver 1.2.041.15",
-	"КаталогФич": "D:\\Git\\Repository\\autotest\\vaneesa_autotest\\features\\module 1\\Заказ проверка изменения итоговой суммы.feature",
+	"КаталогФич": "D:\\Git\\Repository\\autotest\\vaneesa_autotest\\features",
 	"ДобавлятьКИмениСценарияУсловияВыгрузки": false,
 	"ЗаписыватьВидеоВыполненияТестов": false,
 	"КоличествоКадровВидеоВыполненияТестов": 5,
@@ -253,7 +253,7 @@
 		"ЗаписьВидеоПутьКДвижкуTTS": "balabolka_console",
 		"ЗаписьВидеоИмяTTS": "Elena",
 		"ЗаписьВидеоСловарьЗамен": [
-			"D:\\Git\\Repository\\autotest\\vaneesa_autotest\\features\\tools\\VideoTools\\libtts.txt"
+			"D:\\1c\\autotest\\vanessa-automation.1.2.041.15\\vanessa-automation\\tools\\VideoTools\\libtts.txt"
 		],
 		"ЗаписьВидеоГруппаШаговКакШаг": true,
 		"ЗаписьВидеоОтключитьМасштабированиеШаговПоВремени": false,
